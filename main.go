@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"get-subdomains/source"
 	"net/http"
 	"os"
 	"strconv"
+
+	"github.com/DSEMSec/get-subdomains/source"
 
 	"github.com/joho/godotenv"
 	"github.com/rs/zerolog/log"

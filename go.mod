@@ -1,4 +1,4 @@
-module get-subdomains
+module github.com/DSEMSec/get-subdomains
 
 go 1.16
 
